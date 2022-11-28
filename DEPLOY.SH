@@ -6,3 +6,4 @@ deployment4
 deploy to staging env
 echo "goog job"
 tested and accepted 
+deploy from Jboss
