@@ -2,3 +2,5 @@
 # Please do not hard code 
 # Authur Ndung Jemimah
 # This is a fe application
+# Use SCM
+# Use good branching strategies
