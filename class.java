@@ -1,2 +1,4 @@
 # list of students
-Jimmy
+Jimm
+Tita
+John
